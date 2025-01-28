@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @V0id-R1ft!
-- 👀 I’m interested in making websites and messing around with settings. (im not a chromebook kid)
-- 🌱 I’m currently learning the how to make a website
-- 📫 How to reach me: dont. ill post how to later.
+- 👋 Hi, I’m A PERSON!
+- 👀 I’m interested in stuff. (im not a chromebook kid)
+- 🌱 I’m currently sitting somewhere
+- 📫 How to reach me: dont. ill call the cops
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i was inspired by @blobby-boi when i was 13
+- ⚡ Fun fact: i like stuff
 
 <!---
 V0id-R1ft/V0id-R1ft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
